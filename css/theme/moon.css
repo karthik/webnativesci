@@ -49,17 +49,17 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: black;
-  font-family: "quattrocento-sans", sans-serif;
+  font-family: "proxima-nova";
   line-height: 1.2em;
   letter-spacing: 0.02em;
   text-transform: none;
   text-shadow: none;
 }
 
-.reveal h1 { font-weight: 900 }
-.reveal h2 { font-weight: 700 }
-.reveal h3 { font-weight: 500 }
-.reveal h4 { font-weight: 400 }
+.reveal h1 { font-weight: 600 }
+.reveal h2 { font-weight: 600 }
+.reveal h3 { font-weight: 600 }
+.reveal h4 { font-weight: 600 }
 
 .reveal .elaboration {
   font-weight: 300 !important;
@@ -67,7 +67,7 @@ body {
 }
 
 .reveal h1 {
-  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
 }
 
 /*********************************************
