@@ -5,7 +5,8 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 */
 
 pre code {
-  font-size: 155%;
+  font-size: 200%;
+  font-family: "anonymous-pro";
   display: block; padding: 0.5em;
   color: #333;
   /*background: #f8f8ff*/
