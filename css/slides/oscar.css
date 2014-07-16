@@ -25,7 +25,8 @@ body {
 }
 
 .reveal {
-  font-family: "Lato", Times, "Times New Roman", serif;
+  /*font-family: "Lato", Times, "Times New Roman", serif;*/
+  font-family: "quattrocento-sans","Gill Sans MT", Calibri, sans-serif;
   font-size: 36px;
   font-weight: 200;
   letter-spacing: -0.02em;
