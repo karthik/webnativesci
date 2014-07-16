@@ -1,5 +1,5 @@
 
-# OKFN session on tools for web native science
+# Okfestival session: Tools & skills for web native science
 ---
 
 You can download all of this material by clicking download zip on the right side menu of this page.
