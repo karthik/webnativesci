@@ -17,7 +17,6 @@ pre .comment,
 pre .template_comment,
 pre .diff .header,
 pre .javadoc {
-  color: #998;
 }
 
 pre .keyword,
