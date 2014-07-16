@@ -17,6 +17,8 @@ pre .comment,
 pre .template_comment,
 pre .diff .header,
 pre .javadoc {
+  font-size: 155%;
+  font-family: "anonymous-pro";
 }
 
 pre .keyword,
