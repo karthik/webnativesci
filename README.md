@@ -6,8 +6,9 @@ You can download all of this material by clicking download zip on the right side
 
 [![](webnative.png)](http://karthik.github.io/webnativesci/)
 
-For some of the demos we will use Rstudio on the server. Login at [http://rstudio.ropensci.org](http://rstudio.ropensci.org) with the credentials provided to you. 
+* For some of the demos we will use Rstudio on the server. Login at [http://rstudio.ropensci.org](http://rstudio.ropensci.org) with the credentials provided to you. 
 
+* [Etherpad for session notes](https://pad.okfn.org/p/Skills_and_tools_for_web_native_Open_Science)
 
 ---
 
